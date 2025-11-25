@@ -1,0 +1,4 @@
+pyfiglet
+rich
+click
+ascii_magic
